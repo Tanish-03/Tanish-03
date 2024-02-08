@@ -3,8 +3,6 @@
 👩🏻‍💻 Passionate developer experienced in Advanced Java, AI/ML.<br/>
 💭 Building intelligent applications to solve complex problems and drive innovation<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 
 
 <h3 align="left">Connect with me:</h3>
