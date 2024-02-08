@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Tanish!
 👩🏻‍💻 Passionate developer experienced in Advanced Java, AI/ML.<br/>
-🔬 Published 2 research papers: Led development of advanced algorithms for human activity detection using deep learning, resulting in a publication in the International Journal of Advances in Electrical Engineering. 
-💭 Building intelligent applications to solve complex problems and drive innovation<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
+🔬 Published 2 research papers: Led development of advanced algorithms for human activity detection using deep learning, resulting in a publication in the International Journal of Advances in Electrical Engineering.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
