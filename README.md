@@ -1,4 +1,5 @@
-<# 👋 Hi, I'm Tanish!
+
+# 👋 Hi, I'm Tanish!
 👩🏻‍💻 Passionate developer experienced in Advanced Java, AI/ML.<br/>
 💭 Building intelligent applications to solve complex problems and drive innovation<br/>
 👩🏻‍🎓 Currently pursuing BTECH (Hons) in AIML from Chandigarh University, Gharuan<br/>
